@@ -1,6 +1,6 @@
 # HOSTED AT:
 
-34.131.196.228
+https://mapmyhealth-iitism.netlify.app/
 
 # Map My Health
 
@@ -8,9 +8,6 @@
 
 A medical platform that allows doctors and patients to store and access medical records.
 
-## Team Name
-
-#NO_INTERN
 
 ## Problem
 
