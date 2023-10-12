@@ -4,6 +4,9 @@ https://mapmyhealth-iitism.netlify.app/
 
 # Map My Health
 
+# Team Name
+#DEV DYNAMOS
+
 ## Abstract
 
 A medical platform that allows doctors and patients to store and access medical records.
