@@ -5,7 +5,7 @@ https://mapmyhealth-iitism.netlify.app/
 # Map My Health
 
 # Team Name
-#DEV DYNAMOS
+DEV DYNAMOS
 
 ## Abstract
 
